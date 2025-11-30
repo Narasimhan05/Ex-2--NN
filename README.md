@@ -1,5 +1,5 @@
-<H3>Name:HARI PRASATH P</H3>
-<H3>Register no:212223230070</H3>
+## NAME : NARASIMHAN S
+## REGISTER NO : 212223230133
 <H3>Date:20-09-2025</H3>
 <H3>Experiment No. 2 </H3>
 
